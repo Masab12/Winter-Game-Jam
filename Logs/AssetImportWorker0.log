@@ -1152,3 +1152,2460 @@ Received Import Request.
 Start importing Assets/Models/Ahmed Changes/Materials/Tyre Design.mat using Guid(b5f0622d936af5c438593e96595f723d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bfeb22cd173202e5f6dd45d0d71fe1') in 0.029955 seconds 
   Import took 0.035433 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 620.453728 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8773a45d12db841d4426ba68a2960018') in 0.048064 seconds 
+  Import took 0.054308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.601312 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx
+  artifactKey: Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx using Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f256dde510f1b6b0e3e3a5a06af200c') in 0.067606 seconds 
+  Import took 0.076124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 2.fbx
+  artifactKey: Guid(0069de07a8a759649aa359d7beae3912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 2.fbx using Guid(0069de07a8a759649aa359d7beae3912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346d9d49b1e27d36f745de22e8a6e3f3') in 0.099104 seconds 
+  Import took 0.107168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx
+  artifactKey: Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx using Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a31350bf95e70cebef142df0b6f9437') in 0.072524 seconds 
+  Import took 0.080398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 4.fbx
+  artifactKey: Guid(107f3d2f3489c1645b0cb411f79e1bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 4.fbx using Guid(107f3d2f3489c1645b0cb411f79e1bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bf0170a2579813827c4defaad28cc0') in 0.087257 seconds 
+  Import took 0.095538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167703 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 3.fbx
+  artifactKey: Guid(e19df55a6289e4144b14f08605c66e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 3.fbx using Guid(e19df55a6289e4144b14f08605c66e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8551ccf0df367767bca042d2c8330cb') in 0.102969 seconds 
+  Import took 0.109728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 6.fbx
+  artifactKey: Guid(480e7d5cf4b212e41923d5c4e56b5cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 6.fbx using Guid(480e7d5cf4b212e41923d5c4e56b5cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2bcd1ce0d5f8b97187a9beeaa0a08f') in 0.079732 seconds 
+  Import took 0.088001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 1.fbx
+  artifactKey: Guid(2e574f38bfe9db543a2b054deb3be48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 1.fbx using Guid(2e574f38bfe9db543a2b054deb3be48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4bcbe6450e70272c2f06f4ce7721cd') in 0.089440 seconds 
+  Import took 0.097610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx
+  artifactKey: Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx using Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ef40e28f401514616b648a7cdc69c2') in 0.066717 seconds 
+  Import took 0.074669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx
+  artifactKey: Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx using Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ddbee88a039a5129025b6e5509a3b4') in 0.064366 seconds 
+  Import took 0.074103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Body 5.fbx
+  artifactKey: Guid(3b32332f355f0c140b45712a6b4fcd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Body 5.fbx using Guid(3b32332f355f0c140b45712a6b4fcd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e43dd4f6f73622bea27b4793ae55a2') in 0.101232 seconds 
+  Import took 0.109230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Decorations/Materials/brick.mat
+  artifactKey: Guid(3d5483b074ddf0745bb75ecdae09c0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/brick.mat using Guid(3d5483b074ddf0745bb75ecdae09c0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b3e283cd1487f33523c55a671455fd') in 0.056932 seconds 
+  Import took 0.065590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/LowPolyGelandwagen/Materials/Bush_mat.mat
+  artifactKey: Guid(d1a21f1c264e6b244ad935ccf52b8bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyGelandwagen/Materials/Bush_mat.mat using Guid(d1a21f1c264e6b244ad935ccf52b8bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da7e317373ad0b6396e8f3838275a06') in 0.057812 seconds 
+  Import took 0.065910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Decorations/Materials/bright_yellow.mat
+  artifactKey: Guid(66e7933ccacdb544883c93e68a76cc84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/bright_yellow.mat using Guid(66e7933ccacdb544883c93e68a76cc84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d469665c15f0f2a9780b646cf3c7351') in 0.055332 seconds 
+  Import took 0.063081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Charpai_002.fbx
+  artifactKey: Guid(b0f1358bc4fec454f8afd60d73098881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Charpai_002.fbx using Guid(b0f1358bc4fec454f8afd60d73098881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47bf2c4b78f5e0881dbf3ee7a260ccf') in 0.098154 seconds 
+  Import took 0.106230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color2.mat
+  artifactKey: Guid(a7e6fbce49cbe824898262268a46b8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color2.mat using Guid(a7e6fbce49cbe824898262268a46b8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1d22eb0cac568798ed31c36941ea66') in 0.059653 seconds 
+  Import took 0.068005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Charpai_004.fbx
+  artifactKey: Guid(4cfffe6febc84a248949cf6c627879c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Charpai_004.fbx using Guid(4cfffe6febc84a248949cf6c627879c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba04bf068f91f42b2df283d556239621') in 0.110563 seconds 
+  Import took 0.121609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Models/Truck 1/Other Assets/tea_00.fbx
+  artifactKey: Guid(116723c1140dc0f48badc2854ab95dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/tea_00.fbx using Guid(116723c1140dc0f48badc2854ab95dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8990062992a290f97b91fdf9a91f9ac6') in 0.137632 seconds 
+  Import took 0.147391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color3.mat
+  artifactKey: Guid(74398eca9e780364c9c0134d3d9adc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color3.mat using Guid(74398eca9e780364c9c0134d3d9adc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee45f732f0bce63f1e5c2cf71929cfb0') in 0.060621 seconds 
+  Import took 0.068907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Models/Truck 1/Other Assets/tea_003.fbx
+  artifactKey: Guid(158a63029a9ad3e4bac7d0ccc2387eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/tea_003.fbx using Guid(158a63029a9ad3e4bac7d0ccc2387eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f4d00be036f8f6e8d4de62c217bb2b') in 0.150458 seconds 
+  Import took 0.159445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Charpai_001.fbx
+  artifactKey: Guid(afa1531e64a00d74185949d3f5850171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Charpai_001.fbx using Guid(afa1531e64a00d74185949d3f5850171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e70d5c6c3303523c72b58e6fccd6ab') in 0.068187 seconds 
+  Import took 0.074344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Cactus.mat
+  artifactKey: Guid(0e4890f47005c3a4fbe1f368c4939d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Cactus.mat using Guid(0e4890f47005c3a4fbe1f368c4939d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18dbb9e418c5a36ae46401ed01c4480') in 0.033048 seconds 
+  Import took 0.038978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx
+  artifactKey: Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx using Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91afe49cbb8aba4377df00c229ea8a34') in 0.038486 seconds 
+  Import took 0.043276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color1.mat
+  artifactKey: Guid(0d0b8cc8f2139874cae76a121996bbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Color1.mat using Guid(0d0b8cc8f2139874cae76a121996bbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0c3d801d429e499fab0864d48d7a72') in 0.436669 seconds 
+  Import took 0.441359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Cup.fbx
+  artifactKey: Guid(6e64d59bc4f93ae4694b639ddd577e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Cup.fbx using Guid(6e64d59bc4f93ae4694b639ddd577e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b56b3d5da5cc61a693b597a547fe31f') in 0.076883 seconds 
+  Import took 0.081452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx
+  artifactKey: Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx using Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bafacd9c484efede455a83636490654') in 0.039979 seconds 
+  Import took 0.044429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Charpai_003.fbx
+  artifactKey: Guid(d16425ca1c975fc47907b322da74dc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Charpai_003.fbx using Guid(d16425ca1c975fc47907b322da74dc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4cd012688e4ed1d191e1f125f1b276') in 0.062605 seconds 
+  Import took 0.067131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Decorations/Materials/brown.mat
+  artifactKey: Guid(0974fc08211580e44ab7826a2332931f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/brown.mat using Guid(0974fc08211580e44ab7826a2332931f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4df37fb49dbca06a77002155743e253') in 0.036325 seconds 
+  Import took 0.041061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Models/Truck 1/Other Assets/tea_002.fbx
+  artifactKey: Guid(4c1bcd267d8660e489c122704a0172dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/tea_002.fbx using Guid(4c1bcd267d8660e489c122704a0172dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bde5c31439624d69c1c4c9577133d6') in 0.084349 seconds 
+  Import took 0.089155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.547863 seconds.
+  path: Assets/Runemark Studio/Freebies/PolyDesert Mobile/Meshes/Materials/defaultMat.mat
+  artifactKey: Guid(b66a9fbaf5e4b4f44b42150edce75c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/PolyDesert Mobile/Meshes/Materials/defaultMat.mat using Guid(b66a9fbaf5e4b4f44b42150edce75c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480458a17155d96ed8ef291863645028') in 0.062198 seconds 
+  Import took 0.071187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_04_Sunless.mat
+  artifactKey: Guid(e1ec0e2320d2d4fb9a393769378ce0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_04_Sunless.mat using Guid(e1ec0e2320d2d4fb9a393769378ce0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9dfea5f48c17360bce2a1305dbfe832') in 0.083145 seconds 
+  Import took 0.092359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_06_Sunless.mat
+  artifactKey: Guid(5c8d5031ce45e4962818ca2b5426a8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_06_Sunless.mat using Guid(5c8d5031ce45e4962818ca2b5426a8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da678c813aaa245ba280a543ec75e53f') in 0.086170 seconds 
+  Import took 0.095507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Models/GameJam/Truck One/Truck Container.fbx
+  artifactKey: Guid(234f6b6f24ca8434fa90ab31af155039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/GameJam/Truck One/Truck Container.fbx using Guid(234f6b6f24ca8434fa90ab31af155039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5848b6c3c33bb328c739d25dd59c86') in 0.090237 seconds 
+  Import took 0.099098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/Low Poly Desert Starter Kit/Materials/Vertex Color Unlit.mat
+  artifactKey: Guid(e6e6ba439ef1bb048a11147b251d973d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Desert Starter Kit/Materials/Vertex Color Unlit.mat using Guid(e6e6ba439ef1bb048a11147b251d973d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b040a220062258cf863768ea1c197163') in 0.057436 seconds 
+  Import took 0.066250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000708 seconds.
+  path: Assets/Low Poly Desert Starter Kit/Materials/Vertex Color.mat
+  artifactKey: Guid(77f34d55cab75c741af8e49d369939ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Desert Starter Kit/Materials/Vertex Color.mat using Guid(77f34d55cab75c741af8e49d369939ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465a3bba6a5c6df700252aab912e86ad') in 0.268734 seconds 
+  Import took 0.277033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx
+  artifactKey: Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx using Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ef17d0fecdfd894b0e3f030baf836a') in 0.078723 seconds 
+  Import took 0.086747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_03_Sunless.mat
+  artifactKey: Guid(8f2c8ef98c47442d4b0e1896539bf7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_03_Sunless.mat using Guid(8f2c8ef98c47442d4b0e1896539bf7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bccb409068de84d5ac5758fc42dbd7d') in 0.075411 seconds 
+  Import took 0.083334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_1.fbx
+  artifactKey: Guid(a7cdb2246fe90e34589f9e73658eacdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_1.fbx using Guid(a7cdb2246fe90e34589f9e73658eacdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949add78fb022972d8c07ccaddc7e2f7') in 0.055354 seconds 
+  Import took 0.061673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_1.fbx
+  artifactKey: Guid(9987e0d2e1e69894a83636f39b5b1a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_1.fbx using Guid(9987e0d2e1e69894a83636f39b5b1a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc9778e99c29f8c456ff449bd1e6aea') in 0.065206 seconds 
+  Import took 0.071365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Wheel Mod 2_1.fbx
+  artifactKey: Guid(e789dc5d7ef98e2468c7e0289e60fda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Wheel Mod 2_1.fbx using Guid(e789dc5d7ef98e2468c7e0289e60fda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcca66e97532110ca94bf98eebefadd6') in 0.107264 seconds 
+  Import took 0.115281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Models/Truck 1/Truck.fbx
+  artifactKey: Guid(bc79ba72466ceb34c9f79c6c8bc06dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck.fbx using Guid(bc79ba72466ceb34c9f79c6c8bc06dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2238ef4ca1b12d8fa794d3928cc764c7') in 0.085310 seconds 
+  Import took 0.093410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_01_Moonless.mat
+  artifactKey: Guid(1065b432639a84123a07ea43fe5ba4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_01_Moonless.mat using Guid(1065b432639a84123a07ea43fe5ba4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b658405517d8802e224d0f38304f886') in 0.077246 seconds 
+  Import took 0.085275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Dhaba_001.fbx
+  artifactKey: Guid(6ef157d896bbcdb43a41c1fb31c49bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Dhaba_001.fbx using Guid(6ef157d896bbcdb43a41c1fb31c49bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26736c92a602bf92a507608c5d757bf5') in 0.110461 seconds 
+  Import took 0.118638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_2.fbx
+  artifactKey: Guid(5314893d13916384a81166a00384a80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_2.fbx using Guid(5314893d13916384a81166a00384a80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e9b4f9bbc24157f3d3c28d9d4c945a') in 0.080238 seconds 
+  Import took 0.089837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000898 seconds.
+  path: Assets/Decorations/Materials/mat_001_001.mat
+  artifactKey: Guid(b055032b406825445afdfabd2cf4cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_001_001.mat using Guid(b055032b406825445afdfabd2cf4cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ff9c9229ea1c7b0f992437c60c8122') in 0.066625 seconds 
+  Import took 0.076270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_05_Sunless.mat
+  artifactKey: Guid(eea6dc32b86944868a305f6c94f8d7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_05_Sunless.mat using Guid(eea6dc32b86944868a305f6c94f8d7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e652438264ecd45d120bb542460bbd6c') in 0.073723 seconds 
+  Import took 0.081650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_3.fbx
+  artifactKey: Guid(51a8e986d9a7c3545a2d9de4b2c3c2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_3.fbx using Guid(51a8e986d9a7c3545a2d9de4b2c3c2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75b3e410657044376512b84ae8fdd34') in 0.075672 seconds 
+  Import took 0.083431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_02.mat
+  artifactKey: Guid(fa95802f80bd745cfb5e9c89f7e22341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_02.mat using Guid(fa95802f80bd745cfb5e9c89f7e22341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4810833381efc26bea332b91f163855f') in 0.071320 seconds 
+  Import took 0.079244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Day.mat
+  artifactKey: Guid(9ca22510633fbfd4399f1704cd9d5c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Day.mat using Guid(9ca22510633fbfd4399f1704cd9d5c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c79a0d9f21458707a25de9b5357d23') in 0.242862 seconds 
+  Import took 0.250385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Car mod 2_2.fbx
+  artifactKey: Guid(a911cc4e0063c7345ac1334fed753332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Car mod 2_2.fbx using Guid(a911cc4e0063c7345ac1334fed753332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa5a2bb9cc53527936b765a26fd5cbf') in 0.084140 seconds 
+  Import took 0.091395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Decorations/Materials/mat_006.mat
+  artifactKey: Guid(bf061cc32dc6fd14892e7ca4078d74ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_006.mat using Guid(bf061cc32dc6fd14892e7ca4078d74ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d73c0935ded6bf3dc4a82075844f2e') in 0.053001 seconds 
+  Import took 0.060529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/DesertRocks.mat
+  artifactKey: Guid(df64b2ddea7920a40962d7aac24b2869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/DesertRocks.mat using Guid(df64b2ddea7920a40962d7aac24b2869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d02acfd538a23c78728e5ff1838a867') in 0.056172 seconds 
+  Import took 0.063598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Models/Obstacle-7.fbx
+  artifactKey: Guid(1823c26c2292d4845bcca3fab0faefe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Models/Obstacle-7.fbx using Guid(1823c26c2292d4845bcca3fab0faefe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19cf379109777ecaaf987bf5e9982a74') in 0.157559 seconds 
+  Import took 0.166288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/LowPolyGelandwagen/Materials/WhiteGelandwagen_mat.mat
+  artifactKey: Guid(d3f47f1b07db2eb40b6a06dfd770d73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyGelandwagen/Materials/WhiteGelandwagen_mat.mat using Guid(d3f47f1b07db2eb40b6a06dfd770d73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee3eab0c2bf8b743c279f4f667fa8fb') in 0.077278 seconds 
+  Import took 0.085180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000665 seconds.
+  path: Assets/Models/Truck 1/Materials/Divider Grass Texture (1).mat
+  artifactKey: Guid(08575e82316752642bd6bc61fc1bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Materials/Divider Grass Texture (1).mat using Guid(08575e82316752642bd6bc61fc1bf871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb47c329699992f17f28c73d6c4ba47c') in 0.066572 seconds 
+  Import took 0.075743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_06.mat
+  artifactKey: Guid(123caa41e84e041d0bd65bb3ae888dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_06.mat using Guid(123caa41e84e041d0bd65bb3ae888dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a73f8e3415b380e389334924b0ded4') in 0.079525 seconds 
+  Import took 0.089845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_03.mat
+  artifactKey: Guid(33ab377b49aa14f6fae6e5bac230a5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_03.mat using Guid(33ab377b49aa14f6fae6e5bac230a5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8083b4770d3ab021b1146711a9cef69a') in 0.063643 seconds 
+  Import took 0.072124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Dhaba_002.fbx
+  artifactKey: Guid(0485db4e2e98fb143b6cc775d16f0398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Dhaba_002.fbx using Guid(0485db4e2e98fb143b6cc775d16f0398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cee1ab44632fa5608e3be09238d21c9') in 0.103931 seconds 
+  Import took 0.111972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0a1d2c9b57623e9628ef325cefc02f') in 0.104649 seconds 
+  Import took 0.112599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/Models/GameJam/Truck Two/Truck Container.fbx
+  artifactKey: Guid(501c879e918d23745a493263a57230d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/GameJam/Truck Two/Truck Container.fbx using Guid(501c879e918d23745a493263a57230d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef003e06f4d47b6f9a6142b621408d4b') in 0.093945 seconds 
+  Import took 0.101819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_05.mat
+  artifactKey: Guid(e11f5b66aad75483b8cd16ee18a0c917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_05.mat using Guid(e11f5b66aad75483b8cd16ee18a0c917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b0301d911a684f91049a74acb893df') in 0.077617 seconds 
+  Import took 0.086057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_02_Sunless.mat
+  artifactKey: Guid(99a400087584f4263b1a8979d6007ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_02_Sunless.mat using Guid(99a400087584f4263b1a8979d6007ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc52629ced2f0b6017e1e9d3c14e560') in 0.077787 seconds 
+  Import took 0.085918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Decorations/Materials/mat_005.mat
+  artifactKey: Guid(83e82fa354d6da14bb35306102a773d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_005.mat using Guid(83e82fa354d6da14bb35306102a773d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cfa138ba386891a8f54e7fc65e258e') in 0.052470 seconds 
+  Import took 0.060565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 15.fbx
+  artifactKey: Guid(815917dd0d14ac344823d371327319ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 15.fbx using Guid(815917dd0d14ac344823d371327319ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8487e01c6c6862193a492e39c0706bd7') in 0.105554 seconds 
+  Import took 0.120957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Decorations/Materials/mat_015.mat
+  artifactKey: Guid(f289d9385e439364f814279332e9f260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_015.mat using Guid(f289d9385e439364f814279332e9f260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05546a0a93830c7386442cfc95dc39b') in 0.060139 seconds 
+  Import took 0.068338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Models/Truck 1/Cars/Car mod 1_1.fbx
+  artifactKey: Guid(ccebc81eddb249e43aaf8499331a0aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Car mod 1_1.fbx using Guid(ccebc81eddb249e43aaf8499331a0aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f354a98d2b67b7fdf9aa77b6be47f6f9') in 0.121800 seconds 
+  Import took 0.130143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_04.mat
+  artifactKey: Guid(1700716a8dd8948cf8c66ea34a2786d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_04.mat using Guid(1700716a8dd8948cf8c66ea34a2786d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91c7f0de63289986b4959326b9f95a3') in 0.077127 seconds 
+  Import took 0.085092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Decorations/Materials/linie.mat
+  artifactKey: Guid(2ea3a0d052d98064187d031ed808a335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/linie.mat using Guid(2ea3a0d052d98064187d031ed808a335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5bf988bce3a67aaca5521f7e37b5a68') in 0.057820 seconds 
+  Import took 0.066047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 13.fbx
+  artifactKey: Guid(1f50401d859f53844833e8ee31e952cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 13.fbx using Guid(1f50401d859f53844833e8ee31e952cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206c48dc98dba568dd8e8489909e917d') in 0.094316 seconds 
+  Import took 0.102214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Decorations/Materials/mat_003.mat
+  artifactKey: Guid(9be889efcbc589d41b2dc506d3fe71f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_003.mat using Guid(9be889efcbc589d41b2dc506d3fe71f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b36e974705ada41dbaaf828528684a5') in 0.056854 seconds 
+  Import took 0.065069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Car mod 2_3.fbx
+  artifactKey: Guid(b2d41216a84ff7d4993ee7dc830fedf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Car mod 2_3.fbx using Guid(b2d41216a84ff7d4993ee7dc830fedf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b952a7d541c946880b9deebe3de077') in 0.091245 seconds 
+  Import took 0.099338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Decorations/Materials/lampa_wgite.mat
+  artifactKey: Guid(fb38407f167859241a85db565e01c964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/lampa_wgite.mat using Guid(fb38407f167859241a85db565e01c964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5984a01524f5434d07a9369774e4caac') in 0.052809 seconds 
+  Import took 0.061250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 12.fbx
+  artifactKey: Guid(c1f719b7b0032fd4c99f46d05f0f6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 12.fbx using Guid(c1f719b7b0032fd4c99f46d05f0f6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f2dc51822d3f1ee3649f162c243bd1') in 0.101914 seconds 
+  Import took 0.110387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000645 seconds.
+  path: Assets/Models/Truck 1/Cars/Car mod 1_3.fbx
+  artifactKey: Guid(3a335dc0181b7c941a795be6fb63130d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Car mod 1_3.fbx using Guid(3a335dc0181b7c941a795be6fb63130d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d470f15fe2f2086753dcb317fc9ecfc') in 0.093529 seconds 
+  Import took 0.101620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/LowPolyGelandwagen/Models/Materials/Material.001.mat
+  artifactKey: Guid(0e8dbe6e62890604cae0a82350d1ad91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyGelandwagen/Models/Materials/Material.001.mat using Guid(0e8dbe6e62890604cae0a82350d1ad91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40372a7103e38c14972588ed2d7b9f22') in 0.060739 seconds 
+  Import took 0.068748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Models/Truck 1/Cars/Car mod 1_4.fbx
+  artifactKey: Guid(9a5b4f846d19c1d488234c79baad4454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Car mod 1_4.fbx using Guid(9a5b4f846d19c1d488234c79baad4454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9cebde8da49f13b0fd8140b0f40eccc') in 0.094920 seconds 
+  Import took 0.103505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 8.fbx
+  artifactKey: Guid(df29e81192f5e3840a0a262e951b04bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 8.fbx using Guid(df29e81192f5e3840a0a262e951b04bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1e415e0bb30d01e8fff3a2d8e683d1') in 0.110978 seconds 
+  Import took 0.119327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/FlowerCenter.mat
+  artifactKey: Guid(0d2b752cb7a0cfa4883178ad88553bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/FlowerCenter.mat using Guid(0d2b752cb7a0cfa4883178ad88553bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87816ed6314c14af1b708ea87903e95') in 0.056711 seconds 
+  Import took 0.064968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_01.mat
+  artifactKey: Guid(12ccb828343c3405fb94289774b51aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_01.mat using Guid(12ccb828343c3405fb94289774b51aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a4cba6c18b15e63f6d2d51cf4657c5') in 0.074000 seconds 
+  Import took 0.081838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/Decorations/Materials/szyba.mat
+  artifactKey: Guid(fcca9c2102043774da16f9d21479c3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/szyba.mat using Guid(fcca9c2102043774da16f9d21479c3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695c96cce6e49c6449e60a51b0d627d5') in 0.060463 seconds 
+  Import took 0.068196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/White.mat
+  artifactKey: Guid(8caf8e8c44645e041a7312b5a11c3ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/White.mat using Guid(8caf8e8c44645e041a7312b5a11c3ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98cfa8e6611042f214bffdfa7bc5a4d0') in 0.308451 seconds 
+  Import took 0.314360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_02.mat
+  artifactKey: Guid(8202c457dff32486ba5ae1f2f548d983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_02.mat using Guid(8202c457dff32486ba5ae1f2f548d983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd48de4251c35072a24d7b691d32bb0') in 0.051513 seconds 
+  Import took 0.056528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Models/Truck 1/Road/Divider.fbx
+  artifactKey: Guid(6d3b3b60c7932cf44bd3916cec545a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Road/Divider.fbx using Guid(6d3b3b60c7932cf44bd3916cec545a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea3235ab8e721cc24ad230ae8257650') in 0.066191 seconds 
+  Import took 0.071561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Models/source 1/low poly scene for sketchfab.fbx
+  artifactKey: Guid(22189a56be9fe394f8b8abe814610a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/source 1/low poly scene for sketchfab.fbx using Guid(22189a56be9fe394f8b8abe814610a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c2fb5958348ddb8b6f3b6f00ed0e4d') in 0.515252 seconds 
+  Import took 0.521041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 9.fbx
+  artifactKey: Guid(1b6131ca0d6a04b469f72aae284b8eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 9.fbx using Guid(1b6131ca0d6a04b469f72aae284b8eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c4e88ed1ce64ae6991b65e9b42de42') in 0.058516 seconds 
+  Import took 0.063336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 10.fbx
+  artifactKey: Guid(5f3c71a62fdda63408bf4df3272685f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 10.fbx using Guid(5f3c71a62fdda63408bf4df3272685f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47dfd38976dbb80f593d344d458f136') in 0.060075 seconds 
+  Import took 0.064762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_01.mat
+  artifactKey: Guid(ab675e6698bde46fd87143fb0d7580cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_01.mat using Guid(ab675e6698bde46fd87143fb0d7580cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458ffb3e8a7ae95ed79812eea902561a') in 0.044550 seconds 
+  Import took 0.049289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/LowPolyGelandwagen/Materials/Dumpster_mat.mat
+  artifactKey: Guid(d297bc59f8e255a4480adcf4bad8c1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyGelandwagen/Materials/Dumpster_mat.mat using Guid(d297bc59f8e255a4480adcf4bad8c1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7742c329c2f7a77df30c09e5c79941') in 0.035912 seconds 
+  Import took 0.040603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Flower.mat
+  artifactKey: Guid(a0eb1ba83e4b048409871a19b9850bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Flower.mat using Guid(a0eb1ba83e4b048409871a19b9850bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c721d6192626a4c69fb3cd750acc014') in 0.034137 seconds 
+  Import took 0.038751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_02_Moonless.mat
+  artifactKey: Guid(94caf2ba4ca5e46bfaba53afcc8778dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_02_Moonless.mat using Guid(94caf2ba4ca5e46bfaba53afcc8778dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfdeb65318253c63c6f1d66de2f31e9') in 0.045431 seconds 
+  Import took 0.050450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 14.fbx
+  artifactKey: Guid(fb32b1fa6bf1b534e81ffacffb2a5b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 14.fbx using Guid(fb32b1fa6bf1b534e81ffacffb2a5b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45655c835566db4304d9094f04069c4f') in 0.058900 seconds 
+  Import took 0.063584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx
+  artifactKey: Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx using Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d32a670249502a35180bae0c220e56b') in 0.048710 seconds 
+  Import took 0.053822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Truck Container Chhun Chun.fbx
+  artifactKey: Guid(09c5e56d50e298b45a586d2a62a56ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Truck Container Chhun Chun.fbx using Guid(09c5e56d50e298b45a586d2a62a56ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89af7cfee2713bfa7101e9202f82bd7d') in 0.062659 seconds 
+  Import took 0.068794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_03_Moonless.mat
+  artifactKey: Guid(42dc3b9b0dd2040fc9ef0182fdea0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_03_Moonless.mat using Guid(42dc3b9b0dd2040fc9ef0182fdea0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd08579b6b2b3edc9cd840d83bfe2b7b') in 0.078192 seconds 
+  Import took 0.085657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Low Poly Desert Starter Kit/Materials/Water Low Poly.mat
+  artifactKey: Guid(5230548c6a3821a40b475eef306fef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Desert Starter Kit/Materials/Water Low Poly.mat using Guid(5230548c6a3821a40b475eef306fef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049c5937902c011719d7d732b1c28c3c') in 0.232039 seconds 
+  Import took 0.239540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Decorations/Materials/mat_007.mat
+  artifactKey: Guid(ce8006d969ce74940ba32ce95e3b1a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_007.mat using Guid(ce8006d969ce74940ba32ce95e3b1a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b379bc200651d51062b275966de303') in 0.035448 seconds 
+  Import took 0.040031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Models/Truck 1/Truck Two/Truck Container.fbx
+  artifactKey: Guid(4c7d55e292115244db12d9478de78f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck Two/Truck Container.fbx using Guid(4c7d55e292115244db12d9478de78f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6dddf9403fe715f3aa541731eb8399') in 0.046717 seconds 
+  Import took 0.051983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Decorations/Materials/mat_005_001.mat
+  artifactKey: Guid(5a0f8a1d924ace24fbcd9ddfb8e63319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_005_001.mat using Guid(5a0f8a1d924ace24fbcd9ddfb8e63319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac33a10d5da012ed5427c7a850e8d46') in 0.035981 seconds 
+  Import took 0.040454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_03.mat
+  artifactKey: Guid(e173935658f03ec46a326b9a35e3d420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_03.mat using Guid(e173935658f03ec46a326b9a35e3d420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8a8f93f7245d19e0eb0a9d00c20461') in 0.030146 seconds 
+  Import took 0.035086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_01_Sunless.mat
+  artifactKey: Guid(d48a7646f5d0547e889733d84b50cb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_01_Sunless.mat using Guid(d48a7646f5d0547e889733d84b50cb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0f9011e5cbaab0bbaa28cd9f1ee708') in 0.043588 seconds 
+  Import took 0.048952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_3.fbx
+  artifactKey: Guid(bb2de3234657b6c419590168aa70e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_3.fbx using Guid(bb2de3234657b6c419590168aa70e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f34252a9e17f343c4b7527375dcfef') in 0.049076 seconds 
+  Import took 0.053809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Wheel Mod 2_3.fbx
+  artifactKey: Guid(e8bb0ef7fb1c65c40936d66632bb641e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Wheel Mod 2_3.fbx using Guid(e8bb0ef7fb1c65c40936d66632bb641e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97459e9988ae1b8e22b955c34c66bf2') in 0.057105 seconds 
+  Import took 0.061687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_4.fbx
+  artifactKey: Guid(fc1dcd2ccc923c04c8f95d0c2b24e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_4.fbx using Guid(fc1dcd2ccc923c04c8f95d0c2b24e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd41f4f23ad3d24d5a737eccf0e7ce5c') in 0.047099 seconds 
+  Import took 0.051572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_03.mat
+  artifactKey: Guid(f8a60d169ab8a46b09c9b01a3e51601f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Night_03.mat using Guid(f8a60d169ab8a46b09c9b01a3e51601f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f520ab5b9fb3d64b07821be6382adfab') in 0.057429 seconds 
+  Import took 0.063610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Decorations/Materials/mat_002.mat
+  artifactKey: Guid(0b81f4725f4d0e942b080ccc73c5e9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_002.mat using Guid(0b81f4725f4d0e942b080ccc73c5e9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71f2743ad22357f8fdce0b15a1429d9') in 0.055328 seconds 
+  Import took 0.062731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 11.fbx
+  artifactKey: Guid(0be6d6e6875b15b4da3390125e0ada4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 11.fbx using Guid(0be6d6e6875b15b4da3390125e0ada4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf6469612b3a26c2bbcb8274da7c739') in 0.096419 seconds 
+  Import took 0.104646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/FlameThrower2x2.mat
+  artifactKey: Guid(9991708de0e9fac438dc04d0161723ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/FlameThrower2x2.mat using Guid(9991708de0e9fac438dc04d0161723ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1105570ad3342c1b03a39bca4b5d9069') in 0.323741 seconds 
+  Import took 0.331751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Models/Truck 1/Other Assets/Dhaba_003.fbx
+  artifactKey: Guid(e7d1ca35ac715fb458296feb98a20057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Other Assets/Dhaba_003.fbx using Guid(e7d1ca35ac715fb458296feb98a20057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02413470b453adcbde3b30c6166eb69e') in 0.071469 seconds 
+  Import took 0.076896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Meshes/Materials/defaultMat.mat
+  artifactKey: Guid(7762fac154281ce40ae3cd0b4c18cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Meshes/Materials/defaultMat.mat using Guid(7762fac154281ce40ae3cd0b4c18cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7f3a6376e234f4f2e97c1b790119c2') in 0.035432 seconds 
+  Import took 0.040174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Models/Truck 1/Cars/Car mod 1_2.fbx
+  artifactKey: Guid(e4a780e59cdbcc745bf6524eaa4affb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Car mod 1_2.fbx using Guid(e4a780e59cdbcc745bf6524eaa4affb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcd122b8b79bb4e2977f72eb0cca01f') in 0.054535 seconds 
+  Import took 0.059663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Models/Truck 1/Truck One/Truck Container.fbx
+  artifactKey: Guid(6ecd0f207afa471428fb77599c06f3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Truck Container.fbx using Guid(6ecd0f207afa471428fb77599c06f3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7ea42b29efd0d3625f93f8986b2a5b') in 0.058858 seconds 
+  Import took 0.064012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Decorations/Materials/mat_000.mat
+  artifactKey: Guid(a8faac199022ae94aa47e807af01702a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_000.mat using Guid(a8faac199022ae94aa47e807af01702a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97f61995b6fd1f8523f95a253d11040') in 0.034514 seconds 
+  Import took 0.039507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Decorations/Materials/mat_001.mat
+  artifactKey: Guid(79dbbf8e30089d94f8597be6ffa96cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_001.mat using Guid(79dbbf8e30089d94f8597be6ffa96cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744f11e5e276853c28fbcf3904b7f421') in 0.035680 seconds 
+  Import took 0.041098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Models/Truck 1/Truck Container.fbx
+  artifactKey: Guid(3803a08ce28332143a281a06aebca862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck Container.fbx using Guid(3803a08ce28332143a281a06aebca862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcce71d6f510213ab3232eb34205566f') in 0.046769 seconds 
+  Import took 0.052156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.019195 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/teslacoil3x3.mat
+  artifactKey: Guid(12b56d0b81e80e748b8129a9c1a582d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/teslacoil3x3.mat using Guid(12b56d0b81e80e748b8129a9c1a582d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ddf3c1da0a96e841d86c7ff931f533') in 0.264935 seconds 
+  Import took 0.272198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Assets/Models/Truck 1/Cars/Wheel mod 1_4.fbx
+  artifactKey: Guid(697140d24febae14989612ef668ca5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Wheel mod 1_4.fbx using Guid(697140d24febae14989612ef668ca5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e2588ff2235680db86f7f05da821f5') in 0.117545 seconds 
+  Import took 0.126166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx
+  artifactKey: Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx using Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69eeab1c2b83c3906b92f45cd4ca3e65') in 0.086462 seconds 
+  Import took 0.095470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Decorations/Materials/tablica.mat
+  artifactKey: Guid(fa86dad50b460bc45868f9f5f7af5999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/tablica.mat using Guid(fa86dad50b460bc45868f9f5f7af5999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991fd067a872b472f2c91366804f1fad') in 0.054184 seconds 
+  Import took 0.063662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 6.fbx
+  artifactKey: Guid(0b6daac8100cb9e4cb4824b15e1c31a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 6.fbx using Guid(0b6daac8100cb9e4cb4824b15e1c31a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4885ea3ec71149333dbee50bb6247a6') in 0.099752 seconds 
+  Import took 0.110034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Runemark Studio/Freebies/PolyDesert Mobile/Meshes/Materials/polydesert_atlas.mat
+  artifactKey: Guid(112298cd96534a44fa112c83939ac783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/PolyDesert Mobile/Meshes/Materials/polydesert_atlas.mat using Guid(112298cd96534a44fa112c83939ac783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59cf0c8615c1c43c687d7cc17371416f') in 0.083785 seconds 
+  Import took 0.092252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Models/Truck 1/Tire.fbx
+  artifactKey: Guid(4dbdb94a2c8a1324d902e1e496fd549c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Tire.fbx using Guid(4dbdb94a2c8a1324d902e1e496fd549c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbdb842ae9d10e0e0e5ee13cb8069b8') in 0.071054 seconds 
+  Import took 0.079459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_2.fbx
+  artifactKey: Guid(9c7fb9d5809d87740bb4c737727be495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_2.fbx using Guid(9c7fb9d5809d87740bb4c737727be495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2ee32e125f307f29dd9fdeab3d00e0') in 0.078285 seconds 
+  Import took 0.087740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/Decorations/Materials/mat_031.mat
+  artifactKey: Guid(addfb5e7024b93d49b3f2cedf48be5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_031.mat using Guid(addfb5e7024b93d49b3f2cedf48be5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec06e962479cac1f8cf9e691df644f50') in 0.054924 seconds 
+  Import took 0.064482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/Decorations/Materials/mat_032.mat
+  artifactKey: Guid(b4085629d7eaa4143b01fab992d84b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_032.mat using Guid(b4085629d7eaa4143b01fab992d84b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc26bc819e0ff0bd50981bd7fcb6196') in 0.054707 seconds 
+  Import took 0.063566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Car mod 2_1.fbx
+  artifactKey: Guid(5895836429e8fe449b533e7d068add90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Car mod 2_1.fbx using Guid(5895836429e8fe449b533e7d068add90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d3d521bef38c7df862d74d044803a8') in 0.089514 seconds 
+  Import took 0.097575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Models/Truck 1/Cars/Wheel mod 1_2.fbx
+  artifactKey: Guid(513b520fb62427748af6d94dd6de57d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Wheel mod 1_2.fbx using Guid(513b520fb62427748af6d94dd6de57d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f5f81f8db9c67365f3179c39c0d4f1') in 0.086861 seconds 
+  Import took 0.095878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/Decorations/Materials/mat_042.mat
+  artifactKey: Guid(1a7356e9a2d1ff641925205f1e2bcaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_042.mat using Guid(1a7356e9a2d1ff641925205f1e2bcaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330303e0e8de4a842df12aba1d368e19') in 0.055004 seconds 
+  Import took 0.063145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Models/GameJam/Truck One/Tire.fbx
+  artifactKey: Guid(cbf89746946e6b54bb0d7445fa094c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/GameJam/Truck One/Tire.fbx using Guid(cbf89746946e6b54bb0d7445fa094c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9dc0f4261ea2b103e39fdbc2308f0cb') in 0.071752 seconds 
+  Import took 0.080178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_2.fbx
+  artifactKey: Guid(c0e0f88064088774989cc06c2a0943d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_2.fbx using Guid(c0e0f88064088774989cc06c2a0943d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286ffdbda00e6aa6be6552958166fa55') in 0.094400 seconds 
+  Import took 0.102986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/Models/Truck 1/Truck One/Tire.fbx
+  artifactKey: Guid(042bcd3044c589a458ff20da4fa8b8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Tire.fbx using Guid(042bcd3044c589a458ff20da4fa8b8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39f5e26caa53f8eee34b2e2b7d46684') in 0.068572 seconds 
+  Import took 0.076684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_4.fbx
+  artifactKey: Guid(7e9d50c0d0d8d3042b35b543e9b13da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_4.fbx using Guid(7e9d50c0d0d8d3042b35b543e9b13da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e598f7a2d6ac60b9907f57dfb7c72188') in 0.068213 seconds 
+  Import took 0.077028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Models/GameJam/Truck Two/Tyre.fbx
+  artifactKey: Guid(7861eb2a88633934c8505fe929f0c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/GameJam/Truck Two/Tyre.fbx using Guid(7861eb2a88633934c8505fe929f0c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c82cfc20e58ab1c6cd9a7ce66d4339') in 0.124404 seconds 
+  Import took 0.134039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 4.fbx
+  artifactKey: Guid(75022aeeb059f34449381b167c2406ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 4.fbx using Guid(75022aeeb059f34449381b167c2406ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bcf25c6be61f1bdf11db7b960eaf67') in 0.072928 seconds 
+  Import took 0.080329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_2.fbx
+  artifactKey: Guid(cd7599acb3b305047865467a5404f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_2.fbx using Guid(cd7599acb3b305047865467a5404f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51d9107053e7ef609d578a127eeda80') in 0.044686 seconds 
+  Import took 0.049434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Thorn.mat
+  artifactKey: Guid(f5862a071b976404b90477399414fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Thorn.mat using Guid(f5862a071b976404b90477399414fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6672d987822abfa053c88e4c81b1ff4f') in 0.703285 seconds 
+  Import took 0.708011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Decorations/Materials/karoseria_white.mat
+  artifactKey: Guid(bf405b4778c41674099d22950b428fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/karoseria_white.mat using Guid(bf405b4778c41674099d22950b428fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c982957d8935cb23a6f1a31012fc6e') in 0.031504 seconds 
+  Import took 0.035974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Models/Truck 1/Cars/Wheel mod 1_1.fbx
+  artifactKey: Guid(c6dbfe369533efa45931b066a1464034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Wheel mod 1_1.fbx using Guid(c6dbfe369533efa45931b066a1464034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfac580f72a88bf12bd39957b393b6b') in 0.052658 seconds 
+  Import took 0.057625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Tyre.fbx
+  artifactKey: Guid(8f4beb061e4dc77448075c2e0c867994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Tyre.fbx using Guid(8f4beb061e4dc77448075c2e0c867994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41803621a5e1ba38ceb35d1c40de6b07') in 0.052590 seconds 
+  Import took 0.057170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 3.fbx
+  artifactKey: Guid(52ed836340b5c8c47943d70a2731c5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 3.fbx using Guid(52ed836340b5c8c47943d70a2731c5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad47b1b7611b5c0e9abdefbefc164936') in 0.054819 seconds 
+  Import took 0.059415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_1.fbx
+  artifactKey: Guid(45a5c6f4577b34a4a8bef1856e3199ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_1.fbx using Guid(45a5c6f4577b34a4a8bef1856e3199ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8390dcc418a2495f8775e7298ab3ef45') in 0.048283 seconds 
+  Import took 0.052789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Models/Truck/Materials/istockphoto-1194670883-1024x1024.mat
+  artifactKey: Guid(6b16b5a6c6068fd4ba8595dca0fd388e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck/Materials/istockphoto-1194670883-1024x1024.mat using Guid(6b16b5a6c6068fd4ba8595dca0fd388e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f24e672c54296f1986236f49c905fd') in 0.024921 seconds 
+  Import took 0.029888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Ground.mat
+  artifactKey: Guid(c0f96e6b229bfe24d85d8b8190d83096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/Polygon Desert Pack/Materials/Ground.mat using Guid(c0f96e6b229bfe24d85d8b8190d83096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0033f16f47cb8a17d5e9b4709fb84c') in 0.038049 seconds 
+  Import took 0.043062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 5.fbx
+  artifactKey: Guid(550037541051fb14e84db1797e831bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 5.fbx using Guid(550037541051fb14e84db1797e831bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e28c5dc1ff2982250b4ce84dddfe3ac') in 0.074197 seconds 
+  Import took 0.080815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_3.fbx
+  artifactKey: Guid(215a6ee1ccb506a4186142eceef24ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_3.fbx using Guid(215a6ee1ccb506a4186142eceef24ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9725a4ce9ec216367b7bd3aedf12fb') in 0.074925 seconds 
+  Import took 0.082939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Decorations/Materials/karoseria_blue.mat
+  artifactKey: Guid(50204669bc327a34296a286a1bf8cdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/karoseria_blue.mat using Guid(50204669bc327a34296a286a1bf8cdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea108dadc95e9f28995ae5a5d51d270d') in 0.075718 seconds 
+  Import took 0.083795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 1.fbx
+  artifactKey: Guid(1e2c9c943ab71664f903c59b4b5e5a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 1.fbx using Guid(1e2c9c943ab71664f903c59b4b5e5a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7dbcf0504996e8fc11f46962172a1b') in 0.100610 seconds 
+  Import took 0.108808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000601 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx
+  artifactKey: Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx using Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3137e8ab54909c7e1b4fbae344d4eafe') in 0.105784 seconds 
+  Import took 0.113996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Decorations/Materials/red_emiter.mat
+  artifactKey: Guid(0a1323c9f04f8c84aa59092a42039fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/red_emiter.mat using Guid(0a1323c9f04f8c84aa59092a42039fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33916b2152e694379b03c422d993a3fd') in 0.061597 seconds 
+  Import took 0.069582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Decorations/Materials/karoseria_red.mat
+  artifactKey: Guid(8d0e70064dffd2042a0ba7ce7cbaa8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/karoseria_red.mat using Guid(8d0e70064dffd2042a0ba7ce7cbaa8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ec8cfa4d2e5f14dc8f7919b334e801') in 0.057969 seconds 
+  Import took 0.066602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Decorations/Materials/karoseria_orange.mat
+  artifactKey: Guid(d4750a12d80f52c4db7c6e4e54d6cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/karoseria_orange.mat using Guid(d4750a12d80f52c4db7c6e4e54d6cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3126695b65946750439599db16b2e3') in 0.058866 seconds 
+  Import took 0.066822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Models/Truck 1/Truck One/Tyre.fbx
+  artifactKey: Guid(f40a866ad3f3deb4dbd62e3308ea48ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck One/Tyre.fbx using Guid(f40a866ad3f3deb4dbd62e3308ea48ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b486169578da84b1dbae9d46749cb') in 0.100344 seconds 
+  Import took 0.109553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/Models/Truck 1/Truck Two/Tyre.fbx
+  artifactKey: Guid(f5f43dda60136aa4ebea8113a8d59033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Truck Two/Tyre.fbx using Guid(f5f43dda60136aa4ebea8113a8d59033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93806e6f782e965bd50eadf82846ce90') in 0.089435 seconds 
+  Import took 0.097699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Models/Truck 1/Cars Two/Wheel Mod 2_2.fbx
+  artifactKey: Guid(bb2b2bf77747f1d418426e94e0ea85fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars Two/Wheel Mod 2_2.fbx using Guid(bb2b2bf77747f1d418426e94e0ea85fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718f17c5c0ffbdd83b477f99cfe09aa4') in 0.096590 seconds 
+  Import took 0.104544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001158 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx
+  artifactKey: Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx using Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bdeb985a4f2a4ba1af030321526ef2e') in 0.061198 seconds 
+  Import took 0.067449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Runemark Studio/Freebies/PolyDesert Mobile/Materials/polydesert_atlas.mat
+  artifactKey: Guid(0d77e7dfe6c8918409bb739458ba8a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Freebies/PolyDesert Mobile/Materials/polydesert_atlas.mat using Guid(0d77e7dfe6c8918409bb739458ba8a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4f3f3f8a4340534fc51dca8a9bc806') in 0.035430 seconds 
+  Import took 0.040165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 7.fbx
+  artifactKey: Guid(dbc6deb121befe54e925d004abb3d1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 7.fbx using Guid(dbc6deb121befe54e925d004abb3d1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb99ffc54f04000b77716aa018f5ab98') in 0.080728 seconds 
+  Import took 0.087050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/Decorations/Materials/lampa_red.mat
+  artifactKey: Guid(483eed7048bbdf94c8184fe9a276b2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/lampa_red.mat using Guid(483eed7048bbdf94c8184fe9a276b2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd259adca7ce98fb40c20e2790e27d4') in 0.053306 seconds 
+  Import took 0.061238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_1.fbx
+  artifactKey: Guid(a17bd16a5249e204094d2141b39ee1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_1.fbx using Guid(a17bd16a5249e204094d2141b39ee1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f3a8066bd8e147e6cc35c01ce38505') in 0.066267 seconds 
+  Import took 0.074707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/Decorations/Materials/mat_028.mat
+  artifactKey: Guid(d4a0fb29aa81c1b4abfcc4af5eab98b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/mat_028.mat using Guid(d4a0fb29aa81c1b4abfcc4af5eab98b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9132b82ef3689f99c161bea374d8c587') in 0.062773 seconds 
+  Import took 0.070674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Models/Truck 1/Road/Main Road.fbx
+  artifactKey: Guid(1b3942903f43ae542bdf0f074823c6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Road/Main Road.fbx using Guid(1b3942903f43ae542bdf0f074823c6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecb2881ecac3240085c39166bd1c8bd') in 0.101139 seconds 
+  Import took 0.109324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Models/Truck 1/Cars/Wheel mod 1_3.fbx
+  artifactKey: Guid(e4ed755a9e9b74348977df7c075e2feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Cars/Wheel mod 1_3.fbx using Guid(e4ed755a9e9b74348977df7c075e2feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d2068b4c5c5fb9c3160148b527912f') in 0.085977 seconds 
+  Import took 0.093841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/Models/Truck 1/Rock/Models/Rock 2.fbx
+  artifactKey: Guid(d5346697c7c84b445a0b48d4cfdc5af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Truck 1/Rock/Models/Rock 2.fbx using Guid(d5346697c7c84b445a0b48d4cfdc5af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a214db296dd36cefa4331109598423d3') in 0.097240 seconds 
+  Import took 0.105368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Decorations/Materials/karoseria_green.mat
+  artifactKey: Guid(34691e877e8ff4e46a6bc9b7e0062091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/karoseria_green.mat using Guid(34691e877e8ff4e46a6bc9b7e0062091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd568aefa355a640b0a916e3a03a4ec05') in 0.043745 seconds 
+  Import took 0.051699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_3.fbx
+  artifactKey: Guid(de7db0dfab1afab42848a449694e4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_3.fbx using Guid(de7db0dfab1afab42848a449694e4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129930dfbd97a9d48f1e748d3b51f77c') in 0.069156 seconds 
+  Import took 0.079266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/LowPolyGelandwagen/Materials/Trees_mat.mat
+  artifactKey: Guid(c2c1c7ffcc4a0d74eaf11df289fe113b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyGelandwagen/Materials/Trees_mat.mat using Guid(c2c1c7ffcc4a0d74eaf11df289fe113b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71d78360083d3e3637eef0f59984b6f') in 0.076450 seconds 
+  Import took 0.084668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.508840 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 1.fbx
+  artifactKey: Guid(fce91d5dd517e064a998a5118bc0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 1.fbx using Guid(fce91d5dd517e064a998a5118bc0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f4031cb6b588587b1f2f358d987cbc') in 0.035030 seconds 
+  Import took 0.040359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.622227 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Rainy.mat
+  artifactKey: Guid(b5a27fa4b11bfb24cbc6daff3802c229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Rainy.mat using Guid(b5a27fa4b11bfb24cbc6daff3802c229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52da9396ab68f86503a3496fa49afcbd') in 0.093187 seconds 
+  Import took 0.102912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Sunrise.mat
+  artifactKey: Guid(023808db2bfa00d44929aa2176d29c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Sunrise.mat using Guid(023808db2bfa00d44929aa2176d29c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a44bc888bb22e55f582074d0f606bf') in 0.079229 seconds 
+  Import took 0.087239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Rainy.mat
+  artifactKey: Guid(e0a21ebc98cee4e46bbae873ec0be703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Rainy.mat using Guid(e0a21ebc98cee4e46bbae873ec0be703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2e6e7effb6398be38f80d5ed0d3619') in 0.083998 seconds 
+  Import took 0.092904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Sunrise.mat
+  artifactKey: Guid(7c86d4abbd33b564b9e773aceadb8572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Sunrise.mat using Guid(7c86d4abbd33b564b9e773aceadb8572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e089847445a4ae662204ba262f8aaee') in 0.081301 seconds 
+  Import took 0.090261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.733764 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 2.fbx
+  artifactKey: Guid(89647c5465eb92b4db28cdbb134ca0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 2.fbx using Guid(89647c5465eb92b4db28cdbb134ca0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902fe81abc5770acb6c8b6a1ad241335') in 0.055013 seconds 
+  Import took 0.063984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.800212 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 3.fbx
+  artifactKey: Guid(3a0a3df039ca95747b5048f3be8995da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 3.fbx using Guid(3a0a3df039ca95747b5048f3be8995da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63d6583477d5469fc49a6b1ffdbd57a') in 0.036119 seconds 
+  Import took 0.041324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.607909 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 4.fbx
+  artifactKey: Guid(29566ce5b8293534d891fe9e9a24ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 4.fbx using Guid(29566ce5b8293534d891fe9e9a24ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b84d8556136730f439809991212204f') in 0.034721 seconds 
+  Import took 0.040609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.469259 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 5.fbx
+  artifactKey: Guid(efc6a946765766d4983f33136b7d3955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 5.fbx using Guid(efc6a946765766d4983f33136b7d3955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bb6725d4f58a3e885ae4d7b7dc3044') in 0.032513 seconds 
+  Import took 0.037345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.160217 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 6.fbx
+  artifactKey: Guid(ace1bf7bccefb714da9a640fe1c23838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 6.fbx using Guid(ace1bf7bccefb714da9a640fe1c23838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65a812da99d3950f3774607e5506018') in 0.032942 seconds 
+  Import took 0.037897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.605730 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 7.fbx
+  artifactKey: Guid(4a367e8ed9a5e9444a1e20860d9737b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 7.fbx using Guid(4a367e8ed9a5e9444a1e20860d9737b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd63b4f7a5b62fb0e1ca6025a5f7e2cd') in 0.033127 seconds 
+  Import took 0.037898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.083546 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 8.fbx
+  artifactKey: Guid(3726a13a53c191f43b05b0e6309a0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 8.fbx using Guid(3726a13a53c191f43b05b0e6309a0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caebd32bf02530cc84d1b9dbd9eba3de') in 0.069390 seconds 
+  Import took 0.079377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.376400 seconds.
+  path: Assets/Decorations/Materials/gray.mat
+  artifactKey: Guid(378c0501885d5c64e9aee039cf019be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/gray.mat using Guid(378c0501885d5c64e9aee039cf019be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e27e9331ce1342b3bb65c7d90c3bcf') in 0.039044 seconds 
+  Import took 0.047491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Sunset.mat
+  artifactKey: Guid(44d0573bf6d91e447b62f3aff840f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Sunset.mat using Guid(44d0573bf6d91e447b62f3aff840f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8537e140d1fcf4aa3c7b559fd9a933f') in 0.082628 seconds 
+  Import took 0.092794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Rainy.mat
+  artifactKey: Guid(7a8675eb396637d43b4ba0a69cc715a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Rainy.mat using Guid(7a8675eb396637d43b4ba0a69cc715a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4016daa0f22d342ce59c766532df62') in 0.083510 seconds 
+  Import took 0.093336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Night.mat
+  artifactKey: Guid(d3823126980dd98479f7761e6d47338a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Night.mat using Guid(d3823126980dd98479f7761e6d47338a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f4def5b929f83eb4e9d952d2bd5cba') in 0.065691 seconds 
+  Import took 0.072024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Sunset.mat
+  artifactKey: Guid(de1d750fefeeac642bf9b11a3978ccf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Sunset.mat using Guid(de1d750fefeeac642bf9b11a3978ccf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01491da5dc3ca84fb63fa2016157c40') in 0.050160 seconds 
+  Import took 0.055359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Sunrise.mat
+  artifactKey: Guid(39d27e80110a983468075fd1868610d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Sunrise.mat using Guid(39d27e80110a983468075fd1868610d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd84f835a52cf1a68ec75a217a344fe') in 0.050146 seconds 
+  Import took 0.055398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Day.mat
+  artifactKey: Guid(8dd2f17b6e3f8174390967bc55ead836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Day.mat using Guid(8dd2f17b6e3f8174390967bc55ead836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e855575a34abfd136403d2caf83484ea') in 0.047578 seconds 
+  Import took 0.052377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Snowy.mat
+  artifactKey: Guid(24d76106ebc1bd947a3fed862f899b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Snowy.mat using Guid(24d76106ebc1bd947a3fed862f899b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6555ca830f2ef7927f2cffceec838c7e') in 0.048405 seconds 
+  Import took 0.052920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Snowy.mat
+  artifactKey: Guid(b141c8e4f6387ef45b13a68b10c88b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Snowy.mat using Guid(b141c8e4f6387ef45b13a68b10c88b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00fd348e5040fc7254760947ad606fe') in 0.064575 seconds 
+  Import took 0.070906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Night.mat
+  artifactKey: Guid(6eecb3bb77b3f7a43a504fceda3b0b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Night.mat using Guid(6eecb3bb77b3f7a43a504fceda3b0b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554890790caf04f38a2bc9f87db30907') in 0.074518 seconds 
+  Import took 0.082381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Day_Sunless.mat
+  artifactKey: Guid(0f1401d983cde1c49a7f687a57e62c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Day_Sunless.mat using Guid(0f1401d983cde1c49a7f687a57e62c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8974506bc80f8112d7da182f1c2e072') in 0.077893 seconds 
+  Import took 0.086349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Day_Sunless.mat
+  artifactKey: Guid(97fca95f33987e548be9dd7c03cb1a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Day_Sunless.mat using Guid(97fca95f33987e548be9dd7c03cb1a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6683e386e43b8dd1c2cededac717c67d') in 0.063291 seconds 
+  Import took 0.069999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Night.mat
+  artifactKey: Guid(80fa4f34db87aad4d93c45188b19bfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Night.mat using Guid(80fa4f34db87aad4d93c45188b19bfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbfa69dfec52463ecaa3c0853039f14') in 0.044568 seconds 
+  Import took 0.049454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Rainy.mat
+  artifactKey: Guid(8426cf3d3939a7d419671f3d5c269c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Rainy.mat using Guid(8426cf3d3939a7d419671f3d5c269c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b85a14947be992054bab1cc8b0df0e') in 0.047575 seconds 
+  Import took 0.052681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Night_Moonless.mat
+  artifactKey: Guid(56c9ed5ee739a324e8d8bdb9613f4890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Night_Moonless.mat using Guid(56c9ed5ee739a324e8d8bdb9613f4890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c2631c3566b24e98cdcb5ba21413e1') in 0.073512 seconds 
+  Import took 0.080166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Sunrise.mat
+  artifactKey: Guid(3a253cab252a165478338fba0f03e63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Sunrise.mat using Guid(3a253cab252a165478338fba0f03e63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c434ab2e780e920215bcc66ab04588') in 0.212927 seconds 
+  Import took 0.220808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Day.mat
+  artifactKey: Guid(c051fe5a20f72814f9643eb10ebbd2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Day.mat using Guid(c051fe5a20f72814f9643eb10ebbd2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebabdf9cdc6ceb87f64da247338bcf63') in 0.080659 seconds 
+  Import took 0.088480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Night_Moonless.mat
+  artifactKey: Guid(48d4f62e2d5af1643a431d2f4b07ccbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Night_Moonless.mat using Guid(48d4f62e2d5af1643a431d2f4b07ccbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9918a40760e6fc4414b5477663389b60') in 0.051400 seconds 
+  Import took 0.057441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Glass.mat
+  artifactKey: Guid(0193bb3b2c8205c49a6625286780221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Materials/Glass.mat using Guid(0193bb3b2c8205c49a6625286780221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef39acdf1b9398e0e93d54142bcb9f07') in 0.494140 seconds 
+  Import took 0.498795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Night_Moonless.mat
+  artifactKey: Guid(20cbde986f628bb41bbc92dfd61311cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Night_Moonless.mat using Guid(20cbde986f628bb41bbc92dfd61311cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2142e113e3eb8f0507c7f305af816b') in 0.071883 seconds 
+  Import took 0.077201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Sunset.mat
+  artifactKey: Guid(aed657681c6812845bb7736c343b5e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Sunset.mat using Guid(aed657681c6812845bb7736c343b5e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0357f87c1d7a0849ea76879e218052a2') in 0.045477 seconds 
+  Import took 0.050406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Sunset.mat
+  artifactKey: Guid(6e00f8b39315691449f256740a5cb862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS003/FS003_Sunset.mat using Guid(6e00f8b39315691449f256740a5cb862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e830a93ae1317444e45c0a457f87f1a') in 0.044776 seconds 
+  Import took 0.049368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day_Sunless.mat
+  artifactKey: Guid(416ee80c6a09f9b4fb43d9aa43f4a057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day_Sunless.mat using Guid(416ee80c6a09f9b4fb43d9aa43f4a057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091b29c8f848193cca5c5c275fa4a0da') in 0.044071 seconds 
+  Import took 0.048520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Decorations/Materials/gray_2.mat
+  artifactKey: Guid(272f9317853cb0c449f03a5bf8c121cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Decorations/Materials/gray_2.mat using Guid(272f9317853cb0c449f03a5bf8c121cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac359cd316d2ac8870fb084c18f68920') in 0.033179 seconds 
+  Import took 0.037958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day.mat
+  artifactKey: Guid(0d5771081eb9abb43b1792b52260d914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day.mat using Guid(0d5771081eb9abb43b1792b52260d914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12da870191a34091bcc4e9bd08cdf46') in 0.045738 seconds 
+  Import took 0.050609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Snowy.mat
+  artifactKey: Guid(0e51b3d2f16325549987d8d6070de3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS013/FS013_Snowy.mat using Guid(0e51b3d2f16325549987d8d6070de3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ae0ac1b8bf719a283f95544362a03d') in 0.049416 seconds 
+  Import took 0.054335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/glow.mat
+  artifactKey: Guid(e653836c30661fe419b8992e230ca189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PACKAGES/TRAPS AND OBSTACLES/Traps-Obstacles/Particles/Materials/glow.mat using Guid(e653836c30661fe419b8992e230ca189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56295be28de4aad82c639cb70f421eb') in 0.043300 seconds 
+  Import took 0.047762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.694257 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 2.fbx
+  artifactKey: Guid(89647c5465eb92b4db28cdbb134ca0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 2.fbx using Guid(89647c5465eb92b4db28cdbb134ca0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3320bd5aceddd1e776de58376d0267a') in 0.065321 seconds 
+  Import took 0.072255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.552479 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 8.fbx
+  artifactKey: Guid(3726a13a53c191f43b05b0e6309a0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 8.fbx using Guid(3726a13a53c191f43b05b0e6309a0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a726cb99dbf2e352c6398aeab3f5a21') in 0.055096 seconds 
+  Import took 0.060171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.300825 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 4.fbx
+  artifactKey: Guid(29566ce5b8293534d891fe9e9a24ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 4.fbx using Guid(29566ce5b8293534d891fe9e9a24ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85de1f7c3381b0fcee49bee8c5b1581') in 0.056284 seconds 
+  Import took 0.061265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.550695 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Day_Sunless.mat
+  artifactKey: Guid(67950864b84c5db4f9eee7ca51c85571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Day_Sunless.mat using Guid(67950864b84c5db4f9eee7ca51c85571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8704708ff5becfd020e905249403291') in 0.053654 seconds 
+  Import took 0.058679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Night.mat
+  artifactKey: Guid(d1fdb8e44b28da34d9e922cca0bc740e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Night.mat using Guid(d1fdb8e44b28da34d9e922cca0bc740e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b71180fd18dc4173d11fc135420d480') in 0.049428 seconds 
+  Import took 0.054962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Night_Moonless.mat
+  artifactKey: Guid(1cc6e6796f833a94f94e6d794ca654c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Night_Moonless.mat using Guid(1cc6e6796f833a94f94e6d794ca654c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83bca11033294b1ed087d1f01444e26') in 0.050675 seconds 
+  Import took 0.055733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Snowy.mat
+  artifactKey: Guid(7b0f2096b49ccfb4f8b47c8084d650fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Materials/FS002/FS002_Snowy.mat using Guid(7b0f2096b49ccfb4f8b47c8084d650fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c2261d79fd1f4a2d52bf24546d410b') in 0.049366 seconds 
+  Import took 0.054648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.190556 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 5.fbx
+  artifactKey: Guid(efc6a946765766d4983f33136b7d3955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 5.fbx using Guid(efc6a946765766d4983f33136b7d3955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b85c22e3cf3bc827ef63dec32bc717') in 0.059513 seconds 
+  Import took 0.065712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.079953 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 3.fbx
+  artifactKey: Guid(3a0a3df039ca95747b5048f3be8995da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 3.fbx using Guid(3a0a3df039ca95747b5048f3be8995da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ed2153afac2c80509aaeddcd897d7e') in 0.055350 seconds 
+  Import took 0.060814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.660332 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 7.fbx
+  artifactKey: Guid(4a367e8ed9a5e9444a1e20860d9737b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 7.fbx using Guid(4a367e8ed9a5e9444a1e20860d9737b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6280e547f85b53964e30db3718abdc90') in 0.057420 seconds 
+  Import took 0.063382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.348986 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 6.fbx
+  artifactKey: Guid(ace1bf7bccefb714da9a640fe1c23838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Rocks/Rock 6.fbx using Guid(ace1bf7bccefb714da9a640fe1c23838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2a83ce8aef8cd771bbdb0ff3ebb98f') in 0.051279 seconds 
+  Import took 0.056126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.046885 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_1.fbx
+  artifactKey: Guid(9987e0d2e1e69894a83636f39b5b1a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_1.fbx using Guid(9987e0d2e1e69894a83636f39b5b1a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72b5dfa2ca1adb7371af8dc9beb2abe') in 0.034169 seconds 
+  Import took 0.039379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.774778 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_2.fbx
+  artifactKey: Guid(5314893d13916384a81166a00384a80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_2.fbx using Guid(5314893d13916384a81166a00384a80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4b4a743401692de56f4a8555f5fb1d') in 0.037645 seconds 
+  Import took 0.044094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.317618 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_3.fbx
+  artifactKey: Guid(51a8e986d9a7c3545a2d9de4b2c3c2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car mod 2_3.fbx using Guid(51a8e986d9a7c3545a2d9de4b2c3c2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9265a74c24ee3cad42c337cc86868642') in 0.031467 seconds 
+  Import took 0.036263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.207417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car Mod 3_1.glb
+  artifactKey: Guid(371946fc9718a324abcb267f8220af97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Car Mod 3_1.glb using Guid(371946fc9718a324abcb267f8220af97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd8bac1898d260b2ef652a4a2430f4e') in 0.016586 seconds 
+  Import took 0.022649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.522421 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_1.fbx
+  artifactKey: Guid(a7cdb2246fe90e34589f9e73658eacdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_1.fbx using Guid(a7cdb2246fe90e34589f9e73658eacdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83c22297fdfef02e1b444b2dd0347aa') in 0.060268 seconds 
+  Import took 0.069317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.189652 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_2.fbx
+  artifactKey: Guid(c0e0f88064088774989cc06c2a0943d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_2.fbx using Guid(c0e0f88064088774989cc06c2a0943d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17977916dec3d7d173596bafdf7848d8') in 0.063670 seconds 
+  Import took 0.072512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.562689 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_3.fbx
+  artifactKey: Guid(bb2de3234657b6c419590168aa70e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two/Wheel Mod 2_3.fbx using Guid(bb2de3234657b6c419590168aa70e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11ec1fc0177783cf0935e60b13262fe') in 0.037970 seconds 
+  Import took 0.042987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.761799 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two
+  artifactKey: Guid(502678af4205cb340adbf0ea14e165e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars Two using Guid(502678af4205cb340adbf0ea14e165e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5e104ac30d1d37360918a6c306d122') in 0.003494 seconds 
+  Import took 0.008341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.145916 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars
+  artifactKey: Guid(e2d9740be4920054c808af02eeb6d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars using Guid(e2d9740be4920054c808af02eeb6d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa816111119ca16e7d929b1471fc9437') in 0.011213 seconds 
+  Import took 0.016300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.733587 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_1.fbx
+  artifactKey: Guid(45a5c6f4577b34a4a8bef1856e3199ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_1.fbx using Guid(45a5c6f4577b34a4a8bef1856e3199ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3be2fbba56511af95170e7dc87dbbc5') in 0.037782 seconds 
+  Import took 0.044893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.341622 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_2.fbx
+  artifactKey: Guid(cd7599acb3b305047865467a5404f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_2.fbx using Guid(cd7599acb3b305047865467a5404f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe1d39b413dec33dcfa11fd964b66e7') in 0.033715 seconds 
+  Import took 0.038726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.759169 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_3.fbx
+  artifactKey: Guid(215a6ee1ccb506a4186142eceef24ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_3.fbx using Guid(215a6ee1ccb506a4186142eceef24ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb41d621dda6037fecaac2810ddf136') in 0.036578 seconds 
+  Import took 0.041685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.961277 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_4.fbx
+  artifactKey: Guid(fc1dcd2ccc923c04c8f95d0c2b24e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Car mod 1_4.fbx using Guid(fc1dcd2ccc923c04c8f95d0c2b24e4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c748fa8952650d9a4d094081fb7796') in 0.031982 seconds 
+  Import took 0.036858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.700146 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_1.fbx
+  artifactKey: Guid(a17bd16a5249e204094d2141b39ee1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_1.fbx using Guid(a17bd16a5249e204094d2141b39ee1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2404e5f7b72074f873dacb5e44e10c9') in 0.034305 seconds 
+  Import took 0.040206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.130201 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_2.fbx
+  artifactKey: Guid(9c7fb9d5809d87740bb4c737727be495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_2.fbx using Guid(9c7fb9d5809d87740bb4c737727be495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9865986b44036eeb623cff5b84c9eb') in 0.031006 seconds 
+  Import took 0.036137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.923519 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_3.fbx
+  artifactKey: Guid(de7db0dfab1afab42848a449694e4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_3.fbx using Guid(de7db0dfab1afab42848a449694e4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a831e2f9093ad445a6ad8cf50c5f8260') in 0.032732 seconds 
+  Import took 0.038462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.923925 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_4.fbx
+  artifactKey: Guid(7e9d50c0d0d8d3042b35b543e9b13da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Obsticles/Cars/Wheel mod 1_4.fbx using Guid(7e9d50c0d0d8d3042b35b543e9b13da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e8b6a45a31333394db36ffe23a1ba5') in 0.032413 seconds 
+  Import took 0.037977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.396173 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx
+  artifactKey: Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx using Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ddba95443f5623170cc08b8b0f0701') in 0.044100 seconds 
+  Import took 0.049134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.103559 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx
+  artifactKey: Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx using Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a374404beb34dbe9ea19ee5b35e59ca6') in 0.052272 seconds 
+  Import took 0.059596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.727901 seconds.
+  path: Assets/Models/Ahmed Changes/Materials/Charpai Wood.mat
+  artifactKey: Guid(7f1079e5485efb14eaaae11181b553f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Materials/Charpai Wood.mat using Guid(7f1079e5485efb14eaaae11181b553f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519c758d4afa5b467df3ff8896572c33') in 0.023658 seconds 
+  Import took 0.028652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.080008 seconds.
+  path: Assets/Models/Ahmed Changes/Textures/Environment/Wood_desk.jpeg
+  artifactKey: Guid(f9d829d7ba6ddf3458846a076a34b89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Textures/Environment/Wood_desk.jpeg using Guid(f9d829d7ba6ddf3458846a076a34b89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5723f4a20937f62815b477bbf7ecf9') in 0.029270 seconds 
+  Import took 0.036997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.563190 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx
+  artifactKey: Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx using Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca7f4769576c401b6a32783704649ec') in 0.025973 seconds 
+  Import took 0.030964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.381723 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_002.fbx
+  artifactKey: Guid(316e73ae7b0799640954d43978158a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_002.fbx using Guid(316e73ae7b0799640954d43978158a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1372c773e5fada4663f974f94fe0ddac') in 0.033961 seconds 
+  Import took 0.039749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.135602 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_003.fbx
+  artifactKey: Guid(b2fb08e195658cc4eb69592621ac3df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_003.fbx using Guid(b2fb08e195658cc4eb69592621ac3df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac838d192eb810656e4da8b3506f0922') in 0.060051 seconds 
+  Import took 0.068672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.012136 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_004.fbx
+  artifactKey: Guid(a3867f226e15e374b8d9c6432c6a5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_004.fbx using Guid(a3867f226e15e374b8d9c6432c6a5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120c4bf1d71ec2a4b52f145b72fa8780') in 0.051056 seconds 
+  Import took 0.058702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.199979 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Cup.fbx
+  artifactKey: Guid(c6a2a3564b5dde940b703eff9e8d4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Cup.fbx using Guid(c6a2a3564b5dde940b703eff9e8d4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced719ec62e24e7d7603781fa608e197') in 0.074709 seconds 
+  Import took 0.080422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.994636 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_00.fbx
+  artifactKey: Guid(799b407f036635e47812147befbcfc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_00.fbx using Guid(799b407f036635e47812147befbcfc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7c78bcc078cb366a8288c4d3a2df7a') in 0.062037 seconds 
+  Import took 0.067172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.788830 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_002.fbx
+  artifactKey: Guid(f9b447ba099dbcf4ba6da1510be9525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_002.fbx using Guid(f9b447ba099dbcf4ba6da1510be9525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446b7b7e839bdd6df432af7193462e97') in 0.110154 seconds 
+  Import took 0.119295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.411963 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_003.fbx
+  artifactKey: Guid(170583ad1dea49f4e9a0f02a69793152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_003.fbx using Guid(170583ad1dea49f4e9a0f02a69793152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97bc6f737aba086c705c5342319147c1') in 0.059159 seconds 
+  Import took 0.064003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.928643 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Truck Container Chhun Chun.fbx
+  artifactKey: Guid(7ecbd6f2c98efdd418cce25105fbf536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Truck Container Chhun Chun.fbx using Guid(7ecbd6f2c98efdd418cce25105fbf536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df4af9404dc03b3c5fb5f39b44de800') in 0.041411 seconds 
+  Import took 0.047689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.947031 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_003.fbx
+  artifactKey: Guid(9a222a7b4c038734daa97ff0845e14b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_003.fbx using Guid(9a222a7b4c038734daa97ff0845e14b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ba0ac3719b8f7d3ccf01c4eb6f24e3') in 0.055067 seconds 
+  Import took 0.060599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.213029 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_002.fbx
+  artifactKey: Guid(49ffc33cb9578244ea95b203e91df2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_002.fbx using Guid(49ffc33cb9578244ea95b203e91df2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dad31f6682f6735b53944c1b1dd7039') in 0.058449 seconds 
+  Import took 0.067167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.152140 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_001.fbx
+  artifactKey: Guid(f76ae432746f67146954567d6ff0ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_001.fbx using Guid(f76ae432746f67146954567d6ff0ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481fc1f4d5f091f94190a4c9c0c90c0a') in 0.046757 seconds 
+  Import took 0.053716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.624403 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_004.fbx
+  artifactKey: Guid(a3867f226e15e374b8d9c6432c6a5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_004.fbx using Guid(a3867f226e15e374b8d9c6432c6a5de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba9d9dc5c5e9267778a92e4ee37bba8') in 0.035631 seconds 
+  Import took 0.040901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002439 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx
+  artifactKey: Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_001.fbx using Guid(a14be519ab58ef6408807ee033e7ccf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955574c3c0ed2f2ef754d93f73598858') in 0.044322 seconds 
+  Import took 0.050592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_00.fbx
+  artifactKey: Guid(799b407f036635e47812147befbcfc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_00.fbx using Guid(799b407f036635e47812147befbcfc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed16cc4758a363df20046f2afb3c8da8') in 0.069820 seconds 
+  Import took 0.075947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_002.fbx
+  artifactKey: Guid(49ffc33cb9578244ea95b203e91df2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_002.fbx using Guid(49ffc33cb9578244ea95b203e91df2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98917fafaa9417c59bedc7bfc4727aed') in 0.043121 seconds 
+  Import took 0.048165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_002.fbx
+  artifactKey: Guid(316e73ae7b0799640954d43978158a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_002.fbx using Guid(316e73ae7b0799640954d43978158a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ce0a8afc36442bf5b05001fbb39ff9') in 0.038657 seconds 
+  Import took 0.043520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Truck Container Chhun Chun.fbx
+  artifactKey: Guid(7ecbd6f2c98efdd418cce25105fbf536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Truck Container Chhun Chun.fbx using Guid(7ecbd6f2c98efdd418cce25105fbf536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a2e67fd799a9553f823a6df088260a') in 0.056728 seconds 
+  Import took 0.063385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_003.fbx
+  artifactKey: Guid(170583ad1dea49f4e9a0f02a69793152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_003.fbx using Guid(170583ad1dea49f4e9a0f02a69793152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe65f2eeaa20487e0c33ef62aeec7565') in 0.099234 seconds 
+  Import took 0.107495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_002.fbx
+  artifactKey: Guid(f9b447ba099dbcf4ba6da1510be9525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/tea_002.fbx using Guid(f9b447ba099dbcf4ba6da1510be9525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbf364272db8dd49b5a42d3cfd150a6') in 0.100062 seconds 
+  Import took 0.109347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_001.fbx
+  artifactKey: Guid(f76ae432746f67146954567d6ff0ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_001.fbx using Guid(f76ae432746f67146954567d6ff0ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a310b87757669c2aee73519bd2ede8b4') in 0.061404 seconds 
+  Import took 0.069821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_003.fbx
+  artifactKey: Guid(9a222a7b4c038734daa97ff0845e14b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Dhaba_003.fbx using Guid(9a222a7b4c038734daa97ff0845e14b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd0b33d1225c8595a48ec3307c3d7225') in 0.081652 seconds 
+  Import took 0.089520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_003.fbx
+  artifactKey: Guid(b2fb08e195658cc4eb69592621ac3df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Other Assets/Charpai_003.fbx using Guid(b2fb08e195658cc4eb69592621ac3df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a12f5e7789ab0979933878f93a4f83') in 0.062609 seconds 
+  Import took 0.071073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.057756 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road
+  artifactKey: Guid(98994018ffe84334ab8478d1699f2de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road using Guid(98994018ffe84334ab8478d1699f2de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641f536ce79d09faa5a9fdc0b573c06f') in 0.011096 seconds 
+  Import took 0.016911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.699543 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caea0417e130614b275a35cee3fd9e3d') in 0.051957 seconds 
+  Import took 0.056706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.311373 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx
+  artifactKey: Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx using Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ce519303a8ff0f19f098d2a6e78c36') in 0.083609 seconds 
+  Import took 0.092355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.910034 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx
+  artifactKey: Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Main Road.fbx using Guid(2d1d11b759b37ca48be04f48a8b0d284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13af088b1d5abc487b72ba15ec6b33b') in 0.040755 seconds 
+  Import took 0.045691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.168368 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112115e62dd524958a3d1d09055c99f1') in 0.044363 seconds 
+  Import took 0.050397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.427624 seconds.
+  path: Assets/Models/Ahmed Changes/Materials/Warning Area.mat
+  artifactKey: Guid(57619b28cc46b124aafbf55387df53a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Materials/Warning Area.mat using Guid(57619b28cc46b124aafbf55387df53a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9e69ae490d72244087deb8c76c031e') in 0.025072 seconds 
+  Import took 0.030148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.936324 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd605d1a60b023ff5f29f634ccc9df2b3') in 0.045666 seconds 
+  Import took 0.051620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.319625 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One
+  artifactKey: Guid(c6c51983bc4f6bd47b38367647725d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One using Guid(c6c51983bc4f6bd47b38367647725d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8236bb89826b81d38badde1324ff6d') in 0.011800 seconds 
+  Import took 0.016789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.696077 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx
+  artifactKey: Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx using Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c552a773c26e36e8d6c579de75dfcbf') in 0.031861 seconds 
+  Import took 0.037304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.190420 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx
+  artifactKey: Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx using Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12445d791720c8376ec16c25c4e84ebb') in 0.039300 seconds 
+  Import took 0.045763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.601940 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx
+  artifactKey: Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx using Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c143199523ab37e5b425dfe68c24c544') in 0.073779 seconds 
+  Import took 0.083600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.419249 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx
+  artifactKey: Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx using Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02edd679f02e72f5d4065d5f1760dfcc') in 0.045200 seconds 
+  Import took 0.052442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.460632 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx
+  artifactKey: Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx using Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fbb04ed140fb5e5cf00c1a991c4c640') in 0.046799 seconds 
+  Import took 0.054892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.118618 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx
+  artifactKey: Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx using Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0407fced6e824b292ef2a80118e86c') in 0.059015 seconds 
+  Import took 0.067974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.516216 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx
+  artifactKey: Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx using Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2071f0296f84e35afa0683a4db1d0c') in 0.032321 seconds 
+  Import took 0.038730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.459728 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx
+  artifactKey: Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx using Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f210004ff11a1032d1611dd5edec86') in 0.037835 seconds 
+  Import took 0.043188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.211514 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx
+  artifactKey: Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx using Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1e7d626b61ba02279404b72ac9d857') in 0.041463 seconds 
+  Import took 0.046916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.945671 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx
+  artifactKey: Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tyre.fbx using Guid(c5ea64b4123bd0d468b44cdd04bb21fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a097e0113af36a8efddc1552474b5a6') in 0.034646 seconds 
+  Import took 0.040394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx
+  artifactKey: Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 1.fbx using Guid(e2a525840ff72ec46ac1c8703a4b68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7685978d47814e3f5e74fc931a017dd8') in 0.045202 seconds 
+  Import took 0.050126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx
+  artifactKey: Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 6.fbx using Guid(23dc8817f8877894c9f62dfa61460fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be9a193e39921281d663cab7a6c2fc6') in 0.040437 seconds 
+  Import took 0.046706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx
+  artifactKey: Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Tire.fbx using Guid(12ced4ab3075d064c9f5b2dd8f353e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c035ed9002bee31b1a90e41de700109c') in 0.044418 seconds 
+  Import took 0.049216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx
+  artifactKey: Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 2.fbx using Guid(3b361883d5367954db7f2f45ef9e3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e024cb10f84ca53125b8da6ba5ad62') in 0.037944 seconds 
+  Import took 0.044128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx
+  artifactKey: Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 5.fbx using Guid(b493d45a6f2a77a4bad9adfde9d1c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237b72bf5492543d587ccdab8c122559') in 0.032476 seconds 
+  Import took 0.037487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx
+  artifactKey: Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 3.fbx using Guid(94879a619c56e114297b2398dfa9a5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4087749a954db8686b55937c367e89c7') in 0.031368 seconds 
+  Import took 0.036953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx
+  artifactKey: Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Container.fbx using Guid(69225a4bd7027104dbac29dd59093332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97023900f568cce9cf8cdff990e7be7b') in 0.032238 seconds 
+  Import took 0.037010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx
+  artifactKey: Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck One/Truck Body 4.fbx using Guid(15e8c1705c5185249b16c4862aa0a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13c3288a19c4f2d0aca609809a54588') in 0.033741 seconds 
+  Import took 0.039240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.044961 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two
+  artifactKey: Guid(6f79b6ba12b21a0409a85853adbe6e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two using Guid(6f79b6ba12b21a0409a85853adbe6e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c2120cb96915cb11d96b4697a92261') in 0.011178 seconds 
+  Import took 0.016348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.497220 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx
+  artifactKey: Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx using Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a0f034d028de9e5c01acf7ed0bdd32') in 0.045673 seconds 
+  Import took 0.052108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80f22c8f5feb034f6dcc04839f470515') in 0.049920 seconds 
+  Import took 0.056308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fd2b8071fd88b296b7c0ed33902cc1') in 0.046857 seconds 
+  Import took 0.052035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Tyre.fbx
+  artifactKey: Guid(8f4beb061e4dc77448075c2e0c867994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Tyre.fbx using Guid(8f4beb061e4dc77448075c2e0c867994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199139d3ff1043155a2798aebbb6ddfa') in 0.058314 seconds 
+  Import took 0.064141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx
+  artifactKey: Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx using Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a0b1d34bfaae76d2838e951aac4fe3') in 0.073232 seconds 
+  Import took 0.080039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.460759 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a895835ebfcff441045da9d47b728cda') in 0.033448 seconds 
+  Import took 0.038465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.986533 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx
+  artifactKey: Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx using Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8be1704ff77232276ea994f346b1b4') in 0.075689 seconds 
+  Import took 0.085844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.676719 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f8ee5bd36d208f66d36a431a6fd779') in 0.054466 seconds 
+  Import took 0.063060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.818752 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx
+  artifactKey: Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Container.fbx using Guid(a2a7de3e4bd128943a64299429558419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce0134cb576d76c0cf90349b48b5875') in 0.033157 seconds 
+  Import took 0.038855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.131330 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a53ff86097e9db6e67f4c175219ac5') in 0.036205 seconds 
+  Import took 0.043868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.408985 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c106ddd9be008df2926ca4a07b2f2b') in 0.034931 seconds 
+  Import took 0.040793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.766009 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08927b5fad3f2bedf1792ce8224b378b') in 0.096648 seconds 
+  Import took 0.104782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.954655 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx
+  artifactKey: Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body.fbx using Guid(f1e64e0ff2dcfdb4f9a1517431183d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5bc12f3d070e88532992411d4a9d61') in 0.037223 seconds 
+  Import took 0.044236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.211744 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2c8cde4decd3ca851b21f83af6e7c0') in 0.043624 seconds 
+  Import took 0.048848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx
+  artifactKey: Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx using Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210a4d05e58b511706632ea55b8b68ce') in 0.041755 seconds 
+  Import took 0.046690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.742657 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx
+  artifactKey: Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx using Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df87caf688664bcbe8b60b4f89238b9d') in 0.046477 seconds 
+  Import took 0.052152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6c5d02d2a93ce119d27c733daf4014') in 0.054899 seconds 
+  Import took 0.061256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.471053 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx
+  artifactKey: Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 3.fbx using Guid(f258c906d0e2e994e93b75c74c915040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487b2b881c207286534c0934ca488cc0') in 0.075657 seconds 
+  Import took 0.084592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.313417 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx
+  artifactKey: Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Trucks/Truck Two/Truck Body 2.fbx using Guid(012516be97c0ffd4aaff0ef34ffbc46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ffccd6288f58a98612f15ee28e63f7') in 0.037925 seconds 
+  Import took 0.043717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 272.311473 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03efed03f99cb121738f9359ee04b508') in 0.042555 seconds 
+  Import took 0.048975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.491221 seconds.
+  path: Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx
+  artifactKey: Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ahmed Changes/Models/Environment/Road/Divider.fbx using Guid(65f1b47a6d6684d489e832c4c75b79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4f8ee6ec1bae40ad1b9ca4ff00ca13') in 0.034473 seconds 
+  Import took 0.039572 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
