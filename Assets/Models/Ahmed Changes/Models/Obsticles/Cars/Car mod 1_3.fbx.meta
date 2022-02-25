@@ -3,7 +3,12 @@ guid: 215a6ee1ccb506a4186142eceef24ea0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miniBocy
+    second: {fileID: 2100000, guid: 8a15078ba3efdbd4e9577201acce549a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

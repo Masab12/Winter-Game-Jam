@@ -3,7 +3,17 @@ guid: a14be519ab58ef6408807ee033e7ccf1
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charpai
+    second: {fileID: 2100000, guid: 8a15078ba3efdbd4e9577201acce549a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7f1079e5485efb14eaaae11181b553f2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

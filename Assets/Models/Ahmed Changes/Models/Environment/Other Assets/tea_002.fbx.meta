@@ -3,7 +3,17 @@ guid: f9b447ba099dbcf4ba6da1510be9525e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cup
+    second: {fileID: 2100000, guid: 8a15078ba3efdbd4e9577201acce549a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tea Water
+    second: {fileID: 2100000, guid: 8a15078ba3efdbd4e9577201acce549a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -49,7 +59,7 @@ ModelImporter:
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
+    bakeAxisConversion: 1
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
