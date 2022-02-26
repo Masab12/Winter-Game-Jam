@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Events : MonoBehaviour
 {
-    public Text gameOverText;
+    public GameObject gameOverText;
     public Text speedText;
   
     public GameObject gameOverPanel;

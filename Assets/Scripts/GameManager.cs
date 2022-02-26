@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        coinsText.text = "Cups: " + numberOfCoins;
+        coinsText.text = " " + numberOfCoins;
         timeText.text = "Time: " + FormatTimeText();
         speedText.text = "Speed: " + FormatSpeedText();
 
