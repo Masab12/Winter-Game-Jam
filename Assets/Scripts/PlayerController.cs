@@ -121,7 +121,17 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    
+
+
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        if (hit.transform.tag == "Obstacle")
+        {
+            
+
+            GameManager.gameOver = true;
+        }
+    }
 
     void OnTriggerStay(Collider other)
     {

@@ -18,7 +18,7 @@ public class Cup : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            
+            GameManager.numberOfCoins += 1;
             Destroy(gameObject);
         }
     }
