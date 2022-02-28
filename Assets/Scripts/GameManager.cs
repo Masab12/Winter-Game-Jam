@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
 
     public static bool isGameStarted;
     public GameObject startingText;
+    public GameObject KhanTruck;
 
     public static int numberOfCoins;
     public int timeOfGame;
@@ -133,6 +134,8 @@ public class GameManager : MonoBehaviour
                 isGameStarted = true;
 
                 Destroy(startingText);
+                Destroy(KhanTruck);
+
             }
         }
     }

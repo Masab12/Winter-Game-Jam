@@ -18,6 +18,7 @@ public class Cup : MonoBehaviour
     {
         if (other.tag == "Player")
         {
+            FindObjectOfType<AudioManager>().PlaySound("Sip");
             GameManager.numberOfCoins += 1;
             Destroy(gameObject);
         }

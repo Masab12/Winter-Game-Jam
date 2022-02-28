@@ -20,13 +20,17 @@ public class Events : MonoBehaviour
     public void ReplayGame()
     {
         
-        SceneManager.LoadScene("Level");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void QuitGame()
     {
        
         Application.Quit();
+    }
+    public void Level()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     private void HideUIElements()

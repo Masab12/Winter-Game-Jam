@@ -16,14 +16,14 @@ public class Timer : MonoBehaviour
     private void Start()
     {
         progressBar = GetComponent<Image>();
-        maxDistance = finishGO.transform.position.z;
-        progressBar.fillAmount = playerGO.transform.position.z / maxDistance;
+        maxDistance = -finishGO.transform.position.z;
+        progressBar.fillAmount = -playerGO.transform.position.z / maxDistance;
     }
     private void Update()
     {
         if (progressBar.fillAmount < 1)
         {
-            progressBar.fillAmount = playerGO.transform.position.z / maxDistance;
+            progressBar.fillAmount = -playerGO.transform.position.z / maxDistance;
         }
     }
 

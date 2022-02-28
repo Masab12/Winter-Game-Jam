@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour
 
     public float jumpForce;
     public float gravity;
-    public ParticleSystem explodeParticles;
+    
 
 
 
@@ -27,6 +27,11 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         controller = GetComponent<CharacterController>();
+        
+
+    }
+    private void Awake()
+    {
         
     }
 
@@ -136,7 +141,7 @@ public class PlayerController : MonoBehaviour
         {
             var am = FindObjectOfType<AudioManager>();
             am.PlaySound("Crash");
-            explodeParticles.Play();
+            
 
 
 
