@@ -6,8 +6,10 @@ public class Events : MonoBehaviour
 {
     public GameObject gameOverText;
     public Text speedText;
+    public GameObject NextLevelText;
   
     public GameObject gameOverPanel;
+    public GameObject NextLevel;
 
     public void Awake()
     {
@@ -61,6 +63,15 @@ public class Events : MonoBehaviour
     {
         this.gameOverPanel.SetActive(false);
     }
+    public void UnhideNextLevel()
+    {
+        this.NextLevel.SetActive(true);
+    }
 
-   
+    public void HideNextLevell()
+    {
+        this.NextLevel.SetActive(false);
+    }
+
+
 }

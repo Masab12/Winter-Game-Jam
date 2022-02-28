@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    
+
     private CharacterController controller;
     private Vector3 direction;
 
@@ -15,20 +15,26 @@ public class PlayerController : MonoBehaviour
 
 
     private int desiredLane = 1;
-    public float laneDistance = 4; 
+    public float laneDistance = 4;
 
     public float jumpForce;
     public float gravity;
+    public ParticleSystem explodeParticles;
+
+
+
 
     void Start()
     {
         controller = GetComponent<CharacterController>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (!GameManager.isGameStarted)
+            return;
 
         //speed increase over time
         IncreaseSpeed();
@@ -41,13 +47,13 @@ public class PlayerController : MonoBehaviour
         Vector3 targetPosition = transform.position.z * transform.forward
                                + transform.position.y * transform.up;
 
-     
+
         if (desiredLane == 0)
             targetPosition += Vector3.left * laneDistance;
         else if (desiredLane == 2)
             targetPosition += Vector3.right * laneDistance;
 
-        
+
         if (transform.position == targetPosition)
             return;
         Vector3 diff = targetPosition - transform.position;
@@ -73,7 +79,7 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.LeftArrow) || SwipeManager.swipeLeft)
         {
-            
+
 
             desiredLane++;
             if (desiredLane == 3)
@@ -85,7 +91,7 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.RightArrow) || SwipeManager.swipeRight)
         {
-            
+
 
             desiredLane--;
             if (desiredLane == -1)
@@ -108,7 +114,7 @@ public class PlayerController : MonoBehaviour
 
     private void Jump()
     {
-       
+
         direction.y = jumpForce;
     }
 
@@ -123,13 +129,25 @@ public class PlayerController : MonoBehaviour
 
 
 
+
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {
         if (hit.transform.tag == "Obstacle")
         {
-            
+            var am = FindObjectOfType<AudioManager>();
+            am.PlaySound("Crash");
+            explodeParticles.Play();
+
+
 
             GameManager.gameOver = true;
+           
+        }
+        if (hit.transform.tag == "FinishLine")
+        {
+
+
+           GameManager.nextLevel = true;
         }
     }
 

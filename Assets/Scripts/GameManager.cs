@@ -7,6 +7,8 @@ public class GameManager : MonoBehaviour
 {
     public static bool gameOver;
     public GameObject gameOverPanel;
+    public GameObject NextLevel;
+    public static bool nextLevel;
 
     public static bool isGameStarted;
     public GameObject startingText;
@@ -21,9 +23,10 @@ public class GameManager : MonoBehaviour
 
     public int speed;
 
-   
+  
     bool alreadyDone = false;
 
+    // Start is called before the first frame update
     void Start()
     {
         timer = 0.0f;
@@ -32,11 +35,13 @@ public class GameManager : MonoBehaviour
         speed = 0;
 
         gameOver = false;
+        nextLevel = false;
         Time.timeScale = 1;
         isGameStarted = false;
         numberOfCoins = 0;
     }
 
+    // Update is called once per frame
     void Update()
     {
         UpdateTime();
@@ -47,18 +52,27 @@ public class GameManager : MonoBehaviour
             Time.timeScale = 0;
             if (!alreadyDone)
             {
-
                 Events eventsObject = FindObjectOfType<Events>();
-                eventsObject.UnhideGameOverPanel();
 
+                eventsObject.UnhideGameOverPanel();
+            }
+        }
+        if (nextLevel)
+        {
+            Time.timeScale = 0;
+            if (!alreadyDone)
+            {
+                Events eventsObject = FindObjectOfType<Events>();
+
+                eventsObject.UnhideNextLevel();
             }
         }
 
-        coinsText.text = " " + numberOfCoins;
+        coinsText.text = "" + numberOfCoins;
         timeText.text = "Time: " + FormatTimeText();
         speedText.text = "Speed: " + FormatSpeedText();
-
         StartCoroutine(StartGame());
+
     }
 
     void UpdateTime()
@@ -104,14 +118,15 @@ public class GameManager : MonoBehaviour
     {
         return (timeOfGame.ToString()).PadLeft(3, ' ') + "s";
     }
-
     private IEnumerator StartGame()
     {
         if (SwipeManager.tap)
         {
             if (!isGameStarted)
             {
-                
+                var am = FindObjectOfType<AudioManager>();
+                StartCoroutine(AudioManager.FadeOut(am.GetComponent<AudioSource>(), 1, 0.2f));
+                am.PlaySound("StartingUp");
 
                 yield return new WaitForSeconds(1);
 
@@ -122,6 +137,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    
-   
+
+
+
 }
